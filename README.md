@@ -39,7 +39,7 @@ Atualmente, foco meu desenvolvimento como desenvolvedor Full-Stack, com forte in
 
 ## Meus Projetos 📚
 
-* [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
+* [1º Semestre: Agile learn - Plataforma web para aprender sobre metodologia ágil Scrum](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
 * [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
 * [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)
 * [4º Semestre: Projeto de Monitoramente e resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)
