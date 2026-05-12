@@ -90,8 +90,7 @@ No Back-end, minha contribuição foi o desenvolvimento de uma função em Pytho
 
 <p align="center">
       <img src="./Imagens/funçao calcular API1.png" alt="Python">
-
-    </p>
+</p>
 
 </details> 
   
