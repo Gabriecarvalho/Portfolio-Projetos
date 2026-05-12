@@ -71,7 +71,7 @@ Minha contribuição no Front-end, utilizando HTML e CSS, permitiu a criação d
 
 <details>
 
-    <summary>Html e Css</summary>
+<summary>Html e css</summary>
 
 <p align="center">
       <img src="./Imagens/html api1.png" alt="Html">
