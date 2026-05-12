@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" title="MySQL" alt="MySQL" />
 
 <!-- LangChain4j (Usando o ícone base do LangChain via Simple Icons) -->
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="100" height="100" title="LangChain4j" alt="LangChain4j" />
+<img src="https://avatars.githubusercontent.com/u/132277850?v=4" width="100" height="100" title="LangChain4" alt="LangChain4j" />
 
 <!-- Ollama (Via Simple Icons) -->
 <img src="https://cdn.simpleicons.org/ollama" width="100" height="100" title="Ollama" alt="Ollama" />
