@@ -39,11 +39,12 @@ Atualmente, foco meu desenvolvimento como desenvolvedor Full-Stack, com forte in
 
 ## Meus Projetos 📚
 
-* [1º Semestre: Agile learn - Plataforma web para aprender sobre metodologia ágil Scrum](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
-* [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
-* [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)
-* [4º Semestre: Projeto de Monitoramente e resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)
-* [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
-* [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)
+* [1º Semestre: Agile learn - Plataforma web para aprender sobre metodologia ágil Scrum](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_1.md)
+* [2º Semestre: SQL Chat Bot - Aplicação que permite acessar informações de um banco de dados MySQL usando exclusivamente a linguagem natural](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_2.md)
+* [3º Semestre: Quantum - Dashboard para Feedback e Pesquisa de Clima e Cultura de equipes](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_3.md)
+* [4º Semestre(ADS): FAPG - Sistema Intituitivo para Gestão de Projetos de Pesquisa e Desenvolvimento Tecnológico de uma fundação](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_4_ADS.md)
+* [4º Semestre(Banco de dados): Projeto de Monitoramente e resposta a Incidentes](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_4.md)
+* [5º Semestre: TODO](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_5.md)
+* [6º Semestre: TODO](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_6.md)
 
 ---

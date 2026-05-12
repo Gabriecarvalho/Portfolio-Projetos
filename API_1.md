@@ -282,12 +282,13 @@ Outro aspecto importante foi o foco na usabilidade e experiência do usuário. A
 
  <h2 align="center"> Navegação Projetos :link:</h2>
  
-   <p align="justify" style="font-family:roboto;"><li> 1º Semestre: SOS EDUCA - Site de Vendas de Materiais Didáticos</li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_2.md">2º Semestre: GSW - Dashboard para acompanhamentos dos projetos, através de diferentes fontes de dados.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_3.md">3° Semestre: PromoAll - Ecommerce com um motor de regras para promoções aplicadas no momento da compra.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_4.md">4° Semestre: Subiter - Aplicação Web para sincronização dos dados administrativos, financeiros e operacionais.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_5.md">5º Semestre: Tech Ninjas - Automatização de transferência de arquivos entre nuvens.</a></li></p>
-   <p align="justify" style="font-family:roboto;"><li><a href="https://github.com/BryanRibeiro/Portfolio-Projetos/blob/main/API_6.md">6º Semestre: Tech Vision - Sistema de Informação Geográfica de dados públicos do ProAgro.</a></li></p>
-  
+* [1º Semestre: Agile learn - Plataforma web para aprender sobre metodologia ágil Scrum](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_1.md)
+* [2º Semestre: SQL Chat Bot - Aplicação que permite acessar informações de um banco de dados MySQL usando exclusivamente a linguagem natural](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_2.md)
+* [3º Semestre: Quantum - Dashboard para Feedback e Pesquisa de Clima e Cultura de equipes](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_3.md)
+* [4º Semestre(ADS): FAPG - Sistema Intituitivo para Gestão de Projetos de Pesquisa e Desenvolvimento Tecnológico de uma fundação](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_4_ADS.md)
+* [4º Semestre(Banco de dados): Projeto Sistema de Monitoramento e Mobilidade Urbana](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_4.md)
+* [5º Semestre: TODO](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_5.md)
+* [6º Semestre: TODO](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_6.md)
+
 </body>
 </html>
