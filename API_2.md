@@ -19,9 +19,6 @@
 <!-- Java -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" height="100" title="Java" alt="Java" />
 
-<!-- Figma -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="100" height="100" title="Figma" alt="Figma" />
-
 <!-- GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100" height="100" title="GitHub" alt="GitHub" />
 
@@ -47,9 +44,6 @@
 <ul>
   <li>
     <a href="https://dev.java/">Java</a>: É uma linguagem de programação orientada a objetos, robusta e de alto nível. É amplamente utilizada para o desenvolvimento de aplicações back-end, sistemas corporativos e APIs.
-  </li>
-  <li>
-    <a href="https://www.figma.com/">Figma</a>: É uma ferramenta de design de interface (UI) e experiência do usuário (UX) baseada em nuvem. Permite a criação de protótipos, wireframes e a colaboração em tempo real.
   </li>
   <li>
     <a href="https://github.com/">GitHub</a>: É uma plataforma de hospedagem de código-fonte e colaboração baseada em Git. Facilita o controle de versão e permite que desenvolvedores trabalhem juntos em projetos de software.
