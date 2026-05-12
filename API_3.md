@@ -123,12 +123,12 @@ Este projeto foi uma excelente oportunidade para aprofundar minha expertise em d
       <th width="200px">Classificação</th>
     </tr>
     <tr>
-      <td>Metodologia Ágil Scrum</td>
+      <td>Figma</td>
       <td>★★★★☆</td>
     <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
-      <td>Java</td>
+      <td>React</td>
       <td>★★★☆☆</td>
     <td>Entendi</td>
     </tr>	
@@ -138,19 +138,19 @@ Este projeto foi uma excelente oportunidade para aprofundar minha expertise em d
     <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
-      <td>LangChain4j</td>
+      <td>Javascript</td>
       <td>★★★☆☆</td>
     <td>Entendi</td>
     </tr>
    <tr>
-      <td>Ollama</td>
-      <td>★★★☆☆</td>
-    <td>Entendi</td>
+      <td>Typescript</td>
+      <td>★★★★☆</td>
+    <td>Sei fazer com ajuda</td>
     </tr>
    <tr>
-      <td>LM Studio</td>
-      <td>★★★☆☆</td>
-    <td>Entendi</td>
+      <td>Nodejs</td>
+      <td>★★★★☆</td>
+    <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>GIT</td>
@@ -167,19 +167,15 @@ Este projeto foi uma excelente oportunidade para aprofundar minha expertise em d
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>Precisei estudar bastante sobre Java, Llms locais e banco de dados.</td>
+      <td>Colaboração constante com o time e integração entre front-end e back-end.</td>
     </tr>
     <tr>
-      <td>Conhecimento</td>
+      <td>Trabalho em equipe</td>
       <td>Precisei aprender a utilizar os conhecimtentos que adquiri sobre java e llm e junta-los no projeto.</td>
     </tr>
     <tr>
-      <td>Comunicação</td>
-      <td>Precisei me comunicar sobre as possiveis ferramentas para utilizar com llm assim como para planejar o projeto.</td>
-    </tr>
-    <tr>
-      <td>Organização</td>
-      <td>Precisei organizar a documentação e código no GitHub.</td>
+      <td>Soluçao de problema</td>
+      <td>Atuação na solução de gargalos técnicos e otimizações de performance.</td>
     </tr>
   </table>
   
