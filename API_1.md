@@ -118,13 +118,13 @@ Tive a oportunidade de aprofundar meus conhecimentos em desenvolvimento web, foc
     </tr>
     <tr>
       <td>Metodologia Ágil Scrum</td>
-      <td>★★☆☆☆</td>
-	<td>Já ouvi falar</td>
+      <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
     <tr>
-      <td>MySQL</td>
-      <td>★★★☆☆</td>
-	<td>Entendi</td>
+      <td>Python</td>
+      <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>	
     <tr>
       <td>HTML</td>
@@ -137,18 +137,18 @@ Tive a oportunidade de aprofundar meus conhecimentos em desenvolvimento web, foc
 	<td>Sei fazer com ajuda</td>
     </tr>
    <tr>
-      <td>PHP</td>
-      <td>★★★☆☆</td>
+      <td>Flask</td>
+      <td>★★★★☆</td>
 	<td>Sei fazer com ajuda</td>
     </tr>
    <tr>
-      <td>JavaScript</td>
-      <td>★★☆☆☆</td>
-	<td>Já ouvi falar</td>
+      <td>Figma</td>
+      <td>★★★★☆</td>
+	<td>Sei fazer com ajuda</td>
     </tr>
     <tr>
       <td>GIT</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆</td>
 	<td>Sei fazer com ajuda</td>
     </tr>
   </table>
