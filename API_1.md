@@ -60,12 +60,6 @@ Uma das principais características do site é a facilidade de navegação, alia
   </li>
 </ul>
 
-  <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-  
-  <h3> Atribuições como Desenvolvedor Back-end e Front-end</h3>
-  <p align="justify" style="font-family:roboto;"> Como desenvolvedor nesse projeto, minhas atribuições foram essenciais para a implementação das interfaces do usuário e para garantir uma experiência de usuário fluida e amigável.
-
-Minha contribuição no Front-end, utilizando HTML e CSS, permitiu a criação de páginas semânticas e layouts responsivos baseados no design de referência. Foquei no uso de Flexbox para alinhamento e centralização, garantindo que a experiência visual fosse agradável e consistente em qualquer dispositivo durante a resolução das atividades.
 
 <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
   
