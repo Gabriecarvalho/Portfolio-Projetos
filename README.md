@@ -11,7 +11,7 @@ Meu nome é Gabriel Carvalho Silva, tenho 22 anos e estou cursando Análise e De
 Atualmente, foco meu desenvolvimento como desenvolvedor Full-Stack, com forte inclinação para engenharia de dados. Durante minha graduação, tive a oportunidade de aplicar conceitos teóricos em soluções reais para empresas parceiras, utilizando metodologias ágeis para entrega de valor contínuo.
 
 <div align="center">
-  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/148386375?v=4" width="200px;" alt="Gabriel Carvalho Silva"/><br/>
+  <img style="border-radius: 50%;" src="./Imagens/foto.png" width="200px;" alt="Gabriel Carvalho Silva"/><br/>
   <b>Gabriel Carvalho Silva</b><br/>
   Full-Stack Developer / Data Engineering Enthusiast
 </div>
