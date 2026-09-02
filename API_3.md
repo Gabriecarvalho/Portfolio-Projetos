@@ -7,7 +7,6 @@
  
  <h2> Parceiro Acadêmico: <a href="https://youtan.com.br/">Youtan</a></h2>
  
-<img src="./Imagens/logo-youtan.png" height="100" width="230"/>
   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
