@@ -6,9 +6,7 @@
 </h1>
  
  <h2> Parceiro Acadêmico: <a href="https://fapg.org.br/">FAPG</a></h2>
- 
-<img src="./Imagens/logofpag.png" height="100" width="230"/>
-  
+   
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
   <p align="justify" style="font-family:roboto;"> O projeto visa resolver o desafio enfrentado pela FAPG relacionado à complexidade e dificuldade no gerenciamento de seus projetos. A solução proposta foi desenvolver um sistema web intuitivo para a gestão integrada de projetos e de suas respectivas atividades, que permitiu a simplificação e a otimização de todo esse processo. Isso foi feito por meio de uma plataforma centralizada onde é possível organizar o fluxo de trabalho, registrar as tarefas e facilitar a visualização clara do andamento de cada etapa. Essa abordagem ofereceu um acompanhamento dinâmico das operações, proporcionando a garantia de eficiência na execução e a total transparência para todos os partícipes envolvidos.
