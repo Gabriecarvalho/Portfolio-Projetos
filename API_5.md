@@ -325,7 +325,7 @@ export const supplierService = {
 * [4º Semestre(ADS): FAPG - Sistema Intituitivo para Gestão de Projetos de Pesquisa e Desenvolvimento Tecnológico de uma fundação](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_4_ADS.md)
 * [4º Semestre(Banco de dados): Projeto Sistema de Monitoramento e Mobilidade Urbana](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_4.md)
 * [5º Semestre: Projeto de Data WareHouse](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_5.md)
-* [6º Semestre: TODO](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_6.md)
+* [6º Semestre: IAzimute](https://github.com/Gabriecarvalho/Portfolio-Projetos/blob/main/API_6.md)
 
 </body>
 </html>
