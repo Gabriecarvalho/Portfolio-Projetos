@@ -32,7 +32,7 @@ Uma das principais características do site é a facilidade de navegação, alia
 <br>
 <ul>
   <li>
-    <a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional, ou seja, que utiliza a linguagem SQL como interface. Lançado sob a licença GPL, possui como desenvolvedora a Oracle Corporation.
+    <a href="https://www.mysql.com/">MySQL</a>: É um sistema de gerenciamento de banco de dados (SGBD) relacional. O SQL é a linguagem utilizada para consultar e manipular os dados armazenados no MySQL, que é desenvolvido pela Oracle Corporation.
   </li>
   <li>
     <a href="https://html.spec.whatwg.org/multipage/">HTML</a>: É uma linguagem de marcação utilizada para estruturar e organizar o conteúdo das páginas da web. Com suas tags e elementos, permite a criação de textos, imagens, links e formulários, fornecendo a base fundamental para a construção de sites.

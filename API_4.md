@@ -5,7 +5,7 @@
 <a href="https://github.com/SQLutions-FATEC/API-4-Semestre"><img src="https://img.shields.io/badge/GitHub-Repositório Projeto-181717?style=for-the-badge&logo=github"></a>
 </h1>
  
- <h2> Parceiro Acadêmico: <a href="https://fapg.org.br/">Prefeitura São José Dos Cqampos</a></h2>
+ <h2> Parceiro Acadêmico: <a href="https://www.sjc.sp.gov.br/">Prefeitura de São José dos Campos</a></h2>
  
 <img src="./Imagens/brasao.png" height="100" width="230"/>
   
@@ -85,9 +85,9 @@
   
 <details>
 
-<summary>Front-end codigos exemplos</summary>
+<summary>Exemplos de códigos do front-end</summary>
 
-<p>Exemplo da pagina Mapa que pegava as coordenadas das regioes e colocava no mapa como um camada, separando por regiao , ao mesmo tempo que tambem pegava as coordenadas dos radares e colocava no mapa para a população saber onde estão</p>
+<p>Exemplo da página Mapa, que obtém as coordenadas das regiões e as exibe no mapa como camadas separadas. A página também obtém as coordenadas dos radares para que a população saiba onde eles estão.</p>
 
 ```javascript
 <script setup lang="ts">
@@ -129,11 +129,11 @@ const {
   fetchReadingData,
 } = useManagerData();
 
-const nomeRegiaoClicada = ref(<string | null>null);
-const indiceGeral = ref(<number | null>null);
-const indiceTrafego = ref(<number | null>null);
-const indiceSeguranca = ref(<number | null>null);
-const estadoRegiao = ref(<string | null>null);
+const nomeRegiaoClicada = ref<string | null>(null);
+const indiceGeral = ref<number | null>(null);
+const indiceTrafego = ref<number | null>(null);
+const indiceSeguranca = ref<number | null>(null);
+const estadoRegiao = ref<string | null>(null);
 
 function showCitySummary() {
   if (citySummaryData.value) {
@@ -359,9 +359,9 @@ Já no front-end, fui responsável pela criação do painel que exibe os índice
 
 <details>
 
-<summary>Backend Códicos exemplos</summary>
+<summary>Exemplos de códigos do back-end</summary>
 
-<p>Segue um exemplo de ua função para importar as coordenadas das regioes do csv</p>
+<p>Segue um exemplo de função para importar as coordenadas das regiões de um arquivo CSV.</p>
 
 ```python
 import pandas as pd
@@ -461,6 +461,9 @@ def processar_csv_e_inserir(file_path):
             df[col] = pd.to_numeric(df[col])
 
         # 6. MONTAGEM DA STRING WKT (POLYGON)
+        if df.empty:
+            print(f"AVISO: O arquivo '{file_path}' não contém coordenadas.")
+            return
         
         # Cria a lista de coordenadas 'X Y' (Longitude, Latitude)
         coordenadas_xy = (df[COLUNA_LONG].astype(str) + ' ' + df[COLUNA_LAT].astype(str)).tolist()
@@ -596,7 +599,7 @@ Este projeto representou uma excelente oportunidade para elevar o meu nível té
     <tr>
       <td>GIT</td>
       <td>★★★★★</td>
-    <td>Sei fazer com autonimia</td>
+    <td>Sei fazer com autonomia</td>
     </tr>
     <tr>
       <td>Docker</td>
