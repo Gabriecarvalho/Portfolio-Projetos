@@ -26,7 +26,7 @@ Atualmente, foco meu desenvolvimento como desenvolvedor Full-Stack, com forte in
     * `React` e `Vue.js` para interfaces modernas e interativas;
     * `TypeScript` para garantir tipagem e segurança no desenvolvimento front-end.
 * **Dados:**
-    * `SQL` para modelagem e manipulação de bancos de dados (`PostgreSQL`, `MySQL`, `Oracle`);
+    * `SQL` para criação, consulta e manipulação de bancos de dados (`PostgreSQL`, `MySQL`, `Oracle`);
     * `PostGIS` para análise e armazenamento de dados geoespaciais;
 * **Metodologias Ágeis (Scrum):**
     * Experiência com ciclo de vida de Sprints e ferramentas como `Jira` e `Trello`;
